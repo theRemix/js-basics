@@ -5,6 +5,10 @@ var myName = 'Jon';
  * `name`, assign it the same name as before,
  * as well as an `age` (number);
  */
+var person = {
+  name : 'Jon',
+  age : 12
+}
 
 /* Create a function called `greet`,
  * it should take a 1 parameter, `name`
